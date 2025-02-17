@@ -1,5 +1,5 @@
 🌟 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente, e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
 
 🚀 Habilidades
 💻 Linguagens e Tecnologias: PHP, JavaScript, C#, MySQL
@@ -10,27 +10,22 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 🎓 Formação
 📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente
 
-💼 Projetos e Experiências
-🔹 Sistema de Gerenciamento de Funcionários (C#) – Aplicação com herança e agregação
-🔹 Sistema Educacional inspirado no Microsoft Teams (PHP, MySQL, CSS) – Cadastro de alunos, professores e matérias
-🔹 Sistema de Cadastramento Hospitalar (PHP, POO) – Permite que médicos visualizem os pacientes do dia
+🎯 Diferenciais
+✅ Trabalho em Equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
+✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos.
+✅ Interesse por desenvolvimento full stack.
 
 🔗 Portfólio e Contato
 🔍 GitHub: github.com/victorhvicente
 📧 E-mail: vhvicente99@gmail.com
 📍 Localização: Presidente Prudente, SP
 
-🎯 Diferenciais
-✅ Trabalho em Equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
-✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos.
-✅ Interesse por desenvolvimento full stack.
-
 <div>
 <a href="mailto:vhvicente99@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
  
-<a href="https://www.linkedin.com/in/victorvicente" target="_blank">
+<a href="[https://www.linkedin.com/in/victorvicente](https://www.linkedin.com/in/victorvicente)" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  
