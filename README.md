@@ -24,3 +24,18 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 ✅ Trabalho em Equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
 ✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos.
 ✅ Interesse por desenvolvimento full stack.
+
+<div>
+<a href="mailto:vhvicente99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+ 
+<a href="https://www.linkedin.com/in/victorvicente" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ 
+<a href="https://www.instagram.com/vhvicente_" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+ 
+<div/>
