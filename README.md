@@ -2,15 +2,15 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
 
 🚀 Habilidades</br>
-💻 Linguagens e Tecnologias
+💻 Linguagens e Tecnologias</br>
 PHP, JavaScript, C#, MySQL</br>
-🖥️ Desenvolvimento Web
+🖥️ Desenvolvimento Web</br>
 HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)</br>
-🛢️ Banco de Dados
+🛢️ Banco de Dados</br>
 MySQL</br>
-🛠️ Ferramentas
+🛠️ Ferramentas</br>
 Git, XAMPP, MySQL Workbench</br>
-🎓 Formação
+🎓 Formação</br>
 📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente</br>
 
 🎯 Diferenciais
