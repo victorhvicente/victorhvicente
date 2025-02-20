@@ -11,7 +11,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec de Presiden
 
 <hr>  
 
-🎓 **Formação** <br>
+🎓 **Formação** <br><br>
 📚 **Cursando Análise e Desenvolvimento de Sistemas** – Fatec Presidente Prudente  
 
 <hr>  
