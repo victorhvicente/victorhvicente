@@ -1,17 +1,20 @@
 🌟 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente, e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
 
 🚀 Habilidades
-💻 Linguagens e Tecnologias: PHP, JavaScript, C#, MySQL
-🖥️ Desenvolvimento Web: HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)
-🛢️ Banco de Dados: MySQL
-🛠️ Ferramentas: Git, XAMPP, MySQL Workbench
-
+💻 Linguagens e Tecnologias
+PHP, JavaScript, C#, MySQL
+🖥️ Desenvolvimento Web
+HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)
+🛢️ Banco de Dados
+MySQL
+🛠️ Ferramentas
+Git, XAMPP, MySQL Workbench
 🎓 Formação
 📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente
 
 🎯 Diferenciais
-✅ Trabalho em Equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
+✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
 ✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos.
 ✅ Interesse por desenvolvimento full stack.
 
