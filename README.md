@@ -7,7 +7,7 @@ Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistem
 💻 **Linguagens e Tecnologias**: PHP, JavaScript, C#, MySQL <br><br>
 🖥️ **Desenvolvimento Web**: HTML, CSS, Bootstrap, PHP, JavaScript (com MVC) <br><br>
 🛢️ **Banco de Dados**: MySQL <br><br>
-🛠️ **Ferramentas**: Git, XAMPP, MySQL Workbench  
+🛠️ **Ferramentas**: Git, MySQL Workbench  
 
 <hr>  
 
