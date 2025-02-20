@@ -4,9 +4,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec de Presiden
 <hr>  
 
 🚀 **Habilidades** <br><br>
-💻 **Linguagens e Tecnologias**: PHP, JavaScript, C#, MySQL <br>
-🖥️ **Desenvolvimento Web**: HTML, CSS, Bootstrap, PHP, JavaScript (com MVC) <br>
-🛢️ **Banco de Dados**: MySQL <br>
+💻 **Linguagens e Tecnologias**: PHP, JavaScript, C#, MySQL <br><br>
+🖥️ **Desenvolvimento Web**: HTML, CSS, Bootstrap, PHP, JavaScript (com MVC) <br><br>
+🛢️ **Banco de Dados**: MySQL <br><br>
 🛠️ **Ferramentas**: Git, XAMPP, MySQL Workbench  
 
 <hr>  
