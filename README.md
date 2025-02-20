@@ -1,4 +1,4 @@
-🌟 **Sobre Mim** <br>
+🌟 **Sobre Mim** <br><br>
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec de Presidente Prudente e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.  
 
 <hr>  
