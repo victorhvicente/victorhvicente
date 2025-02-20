@@ -1,27 +1,33 @@
-🌟 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.
+🌟 **Sobre Mim** <br>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec de Presidente Prudente e estou em busca da minha primeira oportunidade na área de TI. Apaixonado por tecnologia e sempre em busca de novos aprendizados, acredito que cada desafio é uma oportunidade de crescimento.  
 
-🚀 Habilidades</br>
-💻 Linguagens e Tecnologias</br>
-PHP, JavaScript, C#, MySQL</br>
-🖥️ Desenvolvimento Web</br>
-HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)</br>
-🛢️ Banco de Dados</br>
-MySQL</br>
-🛠️ Ferramentas</br>
-Git, XAMPP, MySQL Workbench</br>
-🎓 Formação</br>
-📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente</br>
+<hr>  
 
-🎯 Diferenciais
-✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
-✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos.
-✅ Interesse por desenvolvimento full stack.
+🚀 **Habilidades** <br><br>
+💻 **Linguagens e Tecnologias**: PHP, JavaScript, C#, MySQL <br>
+🖥️ **Desenvolvimento Web**: HTML, CSS, Bootstrap, PHP, JavaScript (com MVC) <br>
+🛢️ **Banco de Dados**: MySQL <br>
+🛠️ **Ferramentas**: Git, XAMPP, MySQL Workbench  
 
-🔗 Portfólio e Contato
-🔍 GitHub: github.com/victorhvicente
-📧 E-mail: vhvicente99@gmail.com
-📍 Localização: Presidente Prudente, SP
+<hr>  
+
+🎓 **Formação** <br>
+📚 **Cursando Análise e Desenvolvimento de Sistemas** – Fatec Presidente Prudente  
+
+<hr>  
+
+🎯 **Diferenciais** <br><br>
+✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo. <br>
+✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos. <br>
+✅ Interesse por **desenvolvimento full stack**.  
+
+<hr>  
+
+🔗 **Portfólio e Contato** <br><br>
+🔍 **GitHub**: [github.com/victorhvicente](https://github.com/victorhvicente) <br>
+📧 **E-mail**: vhvicente99@gmail.com <br>
+📍 **Localização**: Presidente Prudente, SP  
+
 
 <div>
 <a href="mailto:vhvicente99@gmail.com">
