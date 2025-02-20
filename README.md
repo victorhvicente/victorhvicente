@@ -3,15 +3,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente P
 
 🚀 Habilidades</br>
 💻 Linguagens e Tecnologias
-PHP, JavaScript, C#, MySQL
+PHP, JavaScript, C#, MySQL</br>
 🖥️ Desenvolvimento Web
-HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)
+HTML, CSS, Bootstrap, PHP, JavaScript (com MVC)</br>
 🛢️ Banco de Dados
-MySQL
+MySQL</br>
 🛠️ Ferramentas
-Git, XAMPP, MySQL Workbench
+Git, XAMPP, MySQL Workbench</br>
 🎓 Formação
-📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente
+📚 Cursando Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente</br>
 
 🎯 Diferenciais
 ✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo.
