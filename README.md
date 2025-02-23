@@ -18,6 +18,8 @@ Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistem
 
 🎯 **Diferenciais** <br><br>
 ✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo. <br>
+✅ Adaptabilidade e aprendizado contínuo – Facilidade para aprender novas tecnologias e se adaptar a diferentes desafios da área de TI. <br>
+✅ Proativo – Busca constante por aprimoramento através de cursos, desafios e projetos pessoais.
 ✅ Sempre em busca de soluções e melhorias, com iniciativa para resolver problemas antes que se tornem obstáculos. <br>
 ✅ Interesse por **desenvolvimento full stack**.  
 
