@@ -5,8 +5,8 @@ Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistem
 
 🚀 **Habilidades** <br><br>
 💻 **Linguagens de Programação**: PHP, JavaScript, C#, Python <br><br>
-🖥️ **Desenvolvimento Web**: HTML, CSS, JavaScript, React, Bootstrap <br><br>
-🛢️ **Banco de Dados**: MySQL <br><br>
+🖥️ **Desenvolvimento Web**: HTML, CSS, React, Bootstrap <br><br>
+🛢️ **Banco de Dados**: MySQL, MongoDB <br><br>
 🛠️ **Controle de Versão**: Git
 
 <hr>  
@@ -35,7 +35,7 @@ Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistem
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
  
-<a href="http://www.linkedin.com/in/victor-hugo-vicente-78ba5b351" target="_blank">
+<a href="www.linkedin.com/in/vhvicente" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
