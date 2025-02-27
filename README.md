@@ -25,7 +25,7 @@ Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistem
 <hr>  
 
 🔗 **Portfólio e Contato** <br><br>
-🔍 **GitHub**: [github.com/victorhvicente](https://github.com/victorhvicente) <br>
+🔍 **GitPages**: https://victorhvicente.github.io/ <br>
 📧 **E-mail**: vhvicente99@gmail.com <br>
 📍 **Localização**: Presidente Prudente, SP  
 
