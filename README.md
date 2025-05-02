@@ -1,5 +1,5 @@
 🌟 **Sobre Mim** <br><br>
-Olá! Sou Victor Hugo Vicente, estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente. Estou em busca de experiência na área de TI, pois acredito que cada aprendizado contribui para a construção de uma carreira sólida. Apaixonado por tecnologia e sempre disposto a aprender, vejo cada desafio como uma oportunidade de crescimento.
+Olá! Sou Victor Hugo, estudante de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente. Atualmente, estou estagiando na área de desenvolvimento, onde venho colocando em prática meus conhecimentos e aprendendo ainda mais sobre o dia a dia da profissão. Estou sempre em busca de novos aprendizados, pois acredito que cada experiência contribui para a construção de uma carreira sólida. Apaixonado por tecnologia e sempre disposto a aprender, vejo cada desafio como uma oportunidade de crescimento.
 
 <hr>  
 
