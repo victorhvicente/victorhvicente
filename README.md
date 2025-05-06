@@ -4,7 +4,7 @@ Olá! Sou Victor Hugo, estudante de Análise e Desenvolvimento de Sistemas na Fa
 <hr>  
 
 🚀 **Habilidades** <br><br>
-💻 **Linguagens de Programação**: PHP, JavaScript, C# <br><br>
+💻 **Linguagens de Programação**: Delphi, PHP, JavaScript <br><br>
 🖥️ **Desenvolvimento Web**: HTML, CSS, React, Bootstrap <br><br>
 🛢️ **Banco de Dados**: MySQL, MongoDB <br><br>
 🛠️ **Controle de Versão**: Git, Github
