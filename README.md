@@ -3,26 +3,13 @@ Olá! Sou Victor Hugo, estudante de Análise e Desenvolvimento de Sistemas na Fa
 
 <hr>  
 
-🚀 **Habilidades** <br><br>
+🚀 **Tecnologias** <br><br>
 💻 **Linguagens de Programação**: Delphi, PHP, JavaScript <br><br>
 🖥️ **Desenvolvimento Web**: HTML, CSS, React, Bootstrap <br><br>
 🛢️ **Banco de Dados**: MySQL, MongoDB <br><br>
 🛠️ **Controle de Versão**: Git, Github
 
-<hr>  
-
-🎓 **Formação** <br><br>
-📚 **Cursando Análise e Desenvolvimento de Sistemas** – Fatec Presidente Prudente  
-
-<hr>  
-
-🎯 **Diferenciais** <br><br>
-✅ Trabalho em equipe – Capacidade de colaborar em projetos, compartilhar conhecimento e contribuir para um ambiente produtivo. <br>
-✅ Adaptabilidade e aprendizado contínuo – Facilidade para aprender novas tecnologias e se adaptar a diferentes desafios da área de TI. <br>
-✅ Proativo – Busca constante por aprimoramento através de cursos, desafios e projetos pessoais. <br>
-✅ Interesse por **desenvolvimento full stack**.  
-
-<hr>  
+<hr> 
 
 🔗 **Portfólio e Contato** <br><br>
 🔍 **GitPages**: https://victorhvicente.github.io/ <br>
