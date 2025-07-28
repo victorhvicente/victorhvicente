@@ -31,7 +31,7 @@ Olá! Sou Victor Hugo, estudante de Análise e Desenvolvimento de Sistemas na Fa
 </a>
  <div>
 <a href="https://github.com/victorhvicente">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhvicente&layout=compact&langs_count=7&theme=dracula&exclude_repo=estudos-delphi"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhvicente&layout=compact&langs_count=7&theme=dracula&exclude_repo=estudos-delphi,sistema-clinica-basico-delphi"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhvicente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
